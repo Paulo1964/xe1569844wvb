@@ -3,46 +3,118 @@
 		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] TV WEB| [COLOR red]7PLUS[/COLOR][/B]</name>
 		<thumbnail>http://napalm64.aigaion.feralhosting.com/media/Base/VIID69.jpg</thumbnail>
 		<externallink>https://</externallink>
-		<fanart>https://w7.pngwing.com/pngs/444/1017/png-transparent-bar-chart-graph-of-a-function-graph-going-up-text-logo-graph-of-a-function.png</fanart>
+		<fanart>http://maximus44.antaeus.feralhosting.com/media/colored/KODI2023.jpg</fanart>
 		<info>
-[B][COLOR lime]● [/COLOR][COLOR orange]]Canais Temporários[/COLOR][COLOR lime] ●[/COLOR][/B]
-[COLOR blue]■[/COLOR][COLOR lime]### ON ### Canais-Brasil[/COLOR]
+[B][COLOR lime]●[/COLOR][COLOR orange]]Canais Temporários[/COLOR][/B]
+[COLOR gold]■[/COLOR][COLOR lime]### ON ### Canais-Brasil[/COLOR]
 </info>
 	</channel>
-</channels>
+
 -----------------------------------------------------------------------------------------------------------------------------
-<channels>
+
 	<channel>
-		<name>[COLOR blue][B]≡[/B][/COLOR] CRUNCHYROLL</name>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] 4K | [COLOR red]7PLUS[/COLOR][/B]</name>
 		<thumbnail>http://store-images.s-microsoft.com/image/apps.44134.9007199266244356.8c8f8b98-231f-43f4-b251-7e5c4931b8a2.0a5801df-68bf-4fb5-888b-40f49a061c80</thumbnail>
 		<externallink>https://github.com/Gael-addon-P-br/New_P-br/raw/main/2_Crunchyroll.xml</externallink>
-		<fanart>https://files.tecnoblog.net/wp-content/uploads/2019/06/crunchyroll.png</fanart>
+		<fanart>http://maximus44.antaeus.feralhosting.com/media/colored/KODI2023.jpg</fanart>
 		<info>
-[B]ORIGINAIS CRUNCHYROLL[/B]
+[COLOR gold]■[/COLOR][B][COLOR orange]Adicionado - 18/06/2022[/COLOR][/B]
+[COLOR gold]■[/COLOR][COLOR lime]Titanic (1997)[/COLOR]
 </info>
 	</channel>
-</channels>
+
 -----------------------------------------------------------------------------------------------------------------------------
-<channels>
+
 	<channel>
-		<name>[COLOR blue][B]≡[/B][/COLOR] FUNIMATION</name>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] FILMES 2022 | [COLOR red]7PLUS[/COLOR][/B]</name>
 		<thumbnail>https://images-na.ssl-images-amazon.com/images/I/41VoTPYjdPL.png</thumbnail>
 		<externallink>https://github.com/Gael-addon-P-br/New_P-br/raw/main/2_Funimation.xml</externallink>
-		<fanart>https://derf9v1xhwwx1.cloudfront.net/image/upload/q_60/cste/f54b14e8-5d9b-402a-8af3-68064a503f94.jpg</fanart>
+		<fanart>http://maximus44.antaeus.feralhosting.com/media/colored/KODI2023.jpg</fanart>
 		<info>
-[B]ORIGINAIS FUNIMATION[/B]
+[COLOR gold]■[/COLOR][B][COLOR orange]Adicionado - 17/05/2022[/COLOR][/B]
+[COLOR gold]■[/COLOR][COLOR lime]Spiderhead (2022)[/COLOR]
+[COLOR gold]■[/COLOR][COLOR lime]Medida Provisória (2022)[/COLOR]
+[COLOR gold]■[/COLOR][COLOR lime]Collision (2022)[/COLOR]
 </info>
 	</channel>
-</channels>
+
 -----------------------------------------------------------------------------------------------------------------------------
-<channels>
+
 	<channel>
-		<name>[COLOR blue][B]≡[/B][/COLOR] TODOS OS ANIMES</name>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] FILMES 2021 | [COLOR red]7PLUS[/COLOR][/B]</name>
 		<thumbnail>https://yt3.ggpht.com/ytc/AKedOLTwy1Em1X-Z6yRrDN0dTXgW_2Rh2znrdKMZfRYe0A=s900-c-k-c0x00ffffff-no-rj</thumbnail>
 		<externallink>https://raw.githubusercontent.com/Gael-addon-P-br/New_P-br/main/2_todos_animes.xml</externallink>
-		<fanart>https://mimood.com.br/wp-content/uploads/2020/04/01-10.jpg</fanart>
+		<fanart>http://maximus44.antaeus.feralhosting.com/media/colored/KODI2023.jpg</fanart>
 		<info>
-[B]ALL[/B]
+[COLOR gold]■[/COLOR][B][COLOR orange]Adicionado - 15/06/2022[/COLOR][/B]
+[COLOR gold]■[/COLOR][COLOR lime]Dangerous (2021)[/COLOR]
+[COLOR gold]■[/COLOR][COLOR lime]Triggered (2021)[/COLOR]
 </info>
 	</channel>
+	
+-----------------------------------------------------------------------------------------------------------------------------
+
+	<channel>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] FILMES | [COLOR red]7PLUS[/COLOR][/B]</name>
+		<thumbnail>https://yt3.ggpht.com/ytc/AKedOLTwy1Em1X-Z6yRrDN0dTXgW_2Rh2znrdKMZfRYe0A=s900-c-k-c0x00ffffff-no-rj</thumbnail>
+		<externallink>https://raw.githubusercontent.com/Gael-addon-P-br/New_P-br/main/2_todos_animes.xml</externallink>
+		<fanart>http://maximus44.antaeus.feralhosting.com/media/colored/KODI2023.jpg</fanart>
+		<info>
+[COLOR gold]■[/COLOR][B][COLOR orange]Adicionado - 15/06/2022[/COLOR][/B]
+[COLOR gold]■[/COLOR][COLOR lime]The Villain (1979)[/COLOR]
+</info>
+	</channel>	
+	
+-----------------------------------------------------------------------------------------------------------------------------
+	<channel>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] FILMES MARVEL/DC | [COLOR red]7PLUS[/COLOR][/B]</name>
+		<thumbnail>https://yt3.ggpht.com/ytc/AKedOLTwy1Em1X-Z6yRrDN0dTXgW_2Rh2znrdKMZfRYe0A=s900-c-k-c0x00ffffff-no-rj</thumbnail>
+		<externallink>https://raw.githubusercontent.com/Gael-addon-P-br/New_P-br/main/2_todos_animes.xml</externallink>
+		<fanart>http://maximus44.antaeus.feralhosting.com/media/colored/KODI2023.jpg</fanart>
+		<info>
+
+</info>
+	</channel>		
+
+-----------------------------------------------------------------------------------------------------------------------------
+	<channel>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] SERIES | [COLOR red]7PLUS[/COLOR][/B]</name>
+		<thumbnail>https://yt3.ggpht.com/ytc/AKedOLTwy1Em1X-Z6yRrDN0dTXgW_2Rh2znrdKMZfRYe0A=s900-c-k-c0x00ffffff-no-rj</thumbnail>
+		<externallink>https://raw.githubusercontent.com/Gael-addon-P-br/New_P-br/main/2_todos_animes.xml</externallink>
+		<fanart>http://maximus44.antaeus.feralhosting.com/media/colored/KODI2023.jpg</fanart>
+		<info>
+[COLOR gold]■[/COLOR][B][COLOR orange]Adicionados - 18/06/2022[/COLOR][/B]
+[COLOR gold]■[/COLOR][COLOR lime] The Pentaverate (2022) 1ª Temporada[/COLOR]
+[COLOR gold]■[/COLOR][COLOR lime] Pieces Of Her (2022) 1ª Temporada[/COLOR]
+[COLOR gold]■[/COLOR][COLOR lime] Night Sky (2022) 1ª Temporada[/COLOR]
+</info>
+	</channel>		
+	
+-----------------------------------------------------------------------------------------------------------------------------
+	<channel>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] ANIMAÇÃO | [COLOR red]7PLUS[/COLOR][/B]</name>
+		<thumbnail>https://yt3.ggpht.com/ytc/AKedOLTwy1Em1X-Z6yRrDN0dTXgW_2Rh2znrdKMZfRYe0A=s900-c-k-c0x00ffffff-no-rj</thumbnail>
+		<externallink>https://raw.githubusercontent.com/Gael-addon-P-br/New_P-br/main/2_todos_animes.xml</externallink>
+		<fanart>http://maximus44.antaeus.feralhosting.com/media/colored/KODI2023.jpg</fanart>
+		<info>
+[COLOR gold]■[/COLOR][B][COLOR orange]Adicionado - 28/05/2022[/COLOR][/B]
+[COLOR gold]■[/COLOR][COLOR lime]Coração de Fogo (2022)[/COLOR]
+[COLOR gold]■[/COLOR][B][COLOR orange]Adicionado - 20/05/2022[/COLOR][/B]
+[COLOR gold]■[/COLOR][COLOR lime]Tico e Teco: Defensores da Lei (2022)[/COLOR]
+</info>
+	</channel>		
+	
+-----------------------------------------------------------------------------------------------------------------------------
+	<channel>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] MUSIC  | [COLOR red]7PLUS[/COLOR][/B]</name>
+		<thumbnail>https://yt3.ggpht.com/ytc/AKedOLTwy1Em1X-Z6yRrDN0dTXgW_2Rh2znrdKMZfRYe0A=s900-c-k-c0x00ffffff-no-rj</thumbnail>
+		<externallink>https://raw.githubusercontent.com/Gael-addon-P-br/New_P-br/main/2_todos_animes.xml</externallink>
+		<fanart>http://maximus44.antaeus.feralhosting.com/media/colored/KODI2023.jpg</fanart>
+		<info>
+[COLOR gold]■[/COLOR][B][COLOR orange]Adicionado - 18/06/2022[/COLOR][/B]
+[COLOR gold]■[/COLOR][COLOR lime]Românticas Inesquecíveis 98 99[/COLOR]
+</info>
+	</channel>	
+	
+	
 </channels>
