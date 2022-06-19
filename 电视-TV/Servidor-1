@@ -1,0 +1,684 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="[B]++++++++++++ 7Plus ++++++++++++[/B]" tvg-logo="" group-title="Globo",[B]++++++++++++ 7Plus ++++++++++++[/B]
+http://iptvtree.net:8080/F11368/c81
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="[B]++++++++++++  Brasil  ++++++++++++[/B]" tvg-logo="" group-title="Brasil",[B]++++++++++++  Brasil  ++++++++++++[/B]
+http://niaip.xyz:24621/2ievx74c28h6e4qx39qh/TeY48k92zv/473
+#EXTINF:-1 tvg-id="" tvg-name="A&E SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/AE.png" group-title="BRASIL",A&E SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63691
+#EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="http://i.imgur.com/SKq3sC8.png" group-title="BRASIL",A&E HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63692
+#EXTINF:-1 tvg-id="" tvg-name="A&E FHD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/AE.png" group-title="BRASIL",A&E FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63693
+#EXTINF:-1 tvg-id="" tvg-name="AMC SD" tvg-logo="https://i.postimg.cc/bvB4MbNT/AMC-logo.png" group-title="BRASIL",AMC SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63694
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/AMC.png" group-title="BRASIL",AMC HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63695
+#EXTINF:-1 tvg-id="" tvg-name="AMC FHD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/AMC.png" group-title="BRASIL",AMC FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63696
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/animalplanet.png" group-title="BRASIL",Animal Planet SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63697
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/animalplanet.png" group-title="BRASIL",Animal Planet HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63698
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet FHD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/animalplanet.png" group-title="BRASIL",Animal Planet FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63699
+#EXTINF:-1 tvg-id="" tvg-name="ARTE 1 SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/ARTE1.png" group-title="BRASIL",ARTE 1 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63700
+#EXTINF:-1 tvg-id="" tvg-name="Arte 1 HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/ARTE1.png" group-title="BRASIL",Arte 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63701
+#EXTINF:-1 tvg-id="" tvg-name="AXN SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/axn.png" group-title="BRASIL",AXN SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63702
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/axn.png" group-title="BRASIL",AXN HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63703
+#EXTINF:-1 tvg-id="" tvg-name="AXN FHD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/axn.png" group-title="BRASIL",AXN FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63704
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/BABYTV.png" group-title="BRASIL",Baby TV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63705
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/BABYTV.png" group-title="BRASIL",Baby TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63706
+#EXTINF:-1 tvg-id="" tvg-name="Band Campinas  HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/BAND.png" group-title="BRASIL",Band Campinas  HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63707
+#EXTINF:-1 tvg-id="" tvg-name="Band SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/BAND.png" group-title="BRASIL",Band SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63708
+#EXTINF:-1 tvg-id="" tvg-name="Band HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/BAND.png" group-title="BRASIL",Band HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63709
+#EXTINF:-1 tvg-id="" tvg-name="Band News SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/BAND%20NEWS.png" group-title="BRASIL",Band News SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63710
+#EXTINF:-1 tvg-id="" tvg-name="Band News HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/BAND%20NEWS.png" group-title="BRASIL",Band News HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63711
+#EXTINF:-1 tvg-id="" tvg-name="Band Sports SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/BANDSPORTS.png" group-title="BRASIL",Band Sports SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63712
+#EXTINF:-1 tvg-id="" tvg-name="Band Sports HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/BANDSPORTS.png" group-title="BRASIL",Band Sports HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63713
+#EXTINF:-1 tvg-id="" tvg-name="Band Sports FHD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/BANDSPORTS.png" group-title="BRASIL",Band Sports FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63714
+#EXTINF:-1 tvg-id="" tvg-name="BIS SD " tvg-logo="https://cm-inter.xyz/Logos/BRASIL/bis.png" group-title="BRASIL",BIS SD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63715
+#EXTINF:-1 tvg-id="" tvg-name="Bis HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/bis.png" group-title="BRASIL",Bis HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63716
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito SD" tvg-logo="https://i.imgur.com/rqzaQhS.png" group-title="BRASIL",Cartoonito SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63717
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito HD" tvg-logo="https://i.imgur.com/rqzaQhS.png" group-title="BRASIL",Cartoonito HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63718
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito FHD" tvg-logo="https://i.imgur.com/rqzaQhS.png" group-title="BRASIL",Cartoonito FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63719
+#EXTINF:-1 tvg-id="" tvg-name="Canal Brasil SD" tvg-logo="https://i.postimg.cc/BQT4RhFn/canal-brasil.png" group-title="BRASIL",Canal Brasil SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63720
+#EXTINF:-1 tvg-id="" tvg-name="Canal Brasil HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/CANAL%20BRASIL.png" group-title="BRASIL",Canal Brasil HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63721
+#EXTINF:-1 tvg-id="" tvg-name="Canal Brasil FHD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/CANAL%20BRASIL.png" group-title="BRASIL",Canal Brasil FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63722
+#EXTINF:-1 tvg-id="" tvg-name="Canal Tv Aparecida" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/APARECIDA.png" group-title="BRASIL",Canal Tv Aparecida
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63723
+#EXTINF:-1 tvg-id="" tvg-name="Canal Sony SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/CANAL%20SONY.png" group-title="BRASIL",Canal Sony SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63724
+#EXTINF:-1 tvg-id="" tvg-name="Canal Sony HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/CANAL%20SONY.png" group-title="BRASIL",Canal Sony HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63725
+#EXTINF:-1 tvg-id="" tvg-name="Canal Sony FHD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/CANAL%20SONY.png" group-title="BRASIL",Canal Sony FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63726
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/CARTOONNETWORK.png" group-title="BRASIL",Cartoon Network SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63727
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/CARTOONNETWORK.png" group-title="BRASIL",Cartoon Network HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63728
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network FHD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/CARTOONNETWORK.png" group-title="BRASIL",Cartoon Network FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63729
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/CINEMAX.png" group-title="BRASIL",Cinemax SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63730
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/CINEMAX.png" group-title="BRASIL",Cinemax HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63731
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax FHD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/CINEMAX.png" group-title="BRASIL",Cinemax FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63732
+#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL  SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/CNN%20BRASIL.png" group-title="BRASIL",CNN BRASIL  SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63733
+#EXTINF:-1 tvg-id="" tvg-name="CNN Brasil HD" tvg-logo="https://i.postimg.cc/YSTxy6ck/cnn-brasil-logo.png" group-title="BRASIL",CNN Brasil HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63734
+#EXTINF:-1 tvg-id="" tvg-name="Combate SD" tvg-logo="https://i.postimg.cc/V6TJhSXP/Canal-combate-logo.png" group-title="BRASIL",Combate SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63735
+#EXTINF:-1 tvg-id="" tvg-name="Combate HD" tvg-logo="https://i.postimg.cc/tCbBjNs4/Canal-combate-logo.png" group-title="BRASIL",Combate HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63736
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE FHD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/COMBATE.png" group-title="BRASIL",COMBATE FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63737
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central  SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/COMEDY%20CENTRAL.png" group-title="BRASIL",Comedy Central  SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63738
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/COMEDY%20CENTRAL.png" group-title="BRASIL",Comedy Central HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63739
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL FHD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/COMEDY%20CENTRAL.png" group-title="BRASIL",COMEDY CENTRAL FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63740
+#EXTINF:-1 tvg-id="" tvg-name="Cultura SD" tvg-logo="https://i.postimg.cc/26TPZ9bT/cultura-logo.png" group-title="BRASIL",Cultura SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63741
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA " tvg-logo="https://cm-inter.xyz/Logos/BRASIL/CULTURA.png" group-title="BRASIL",CULTURA 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63742
+#EXTINF:-1 tvg-id="" tvg-name="CURTA SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/CURTA.png" group-title="BRASIL",CURTA SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63743
+#EXTINF:-1 tvg-id="" tvg-name="Curta  HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/CURTA.png" group-title="BRASIL",Curta  HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63744
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/discovery.png" group-title="BRASIL",Discovery Channel SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63745
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/discovery.png" group-title="BRASIL",Discovery Channel HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63746
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/DISNEY%20CHANNEL.png" group-title="BRASIL",DISCOVERY CHANNEL FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63747
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/discovery%20H%20H.png" group-title="BRASIL",Discovery H&H HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63748
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H FHD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/discovery%20H%20H.png" group-title="BRASIL",Discovery H&H FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63749
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/DISCOVERY%20KIDS.png" group-title="BRASIL",Discovery Kids SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63750
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/DISCOVERY%20KIDS.png" group-title="BRASIL",Discovery Kids HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63751
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids FHD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/DISCOVERY%20KIDS.png" group-title="BRASIL",Discovery Kids FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63752
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/discovery%20science.png" group-title="BRASIL",Discovery Science SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63753
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/discovery%20science.png" group-title="BRASIL",Discovery Science HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63754
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater SD" tvg-logo="https://i.postimg.cc/9fy6wsQ3/Discovery-theater-HD-logo.png" group-title="BRASIL",Discovery Theater SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63755
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater HD" tvg-logo="https://i.postimg.cc/MKJyBZwP/Discovery-theater-HD-logo.png" group-title="BRASIL",Discovery Theater HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63756
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater FHD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/DISCOVERY%20THEATER.png" group-title="BRASIL",Discovery Theater FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63757
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TLC SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/discovery.png" group-title="BRASIL",DISCOVERY TLC SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63758
+#EXTINF:-1 tvg-id="" tvg-name="Discovery TLC HD" tvg-logo="https://i.postimg.cc/nrBBWg4G/discovery-tlc-logo.png" group-title="BRASIL",Discovery TLC HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63759
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/discovery.png" group-title="BRASIL",Discovery Turbo SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63760
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo HD" tvg-logo="https://i.postimg.cc/6QpVQHKB/discovery-turbo-logo.png" group-title="BRASIL",Discovery Turbo HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63761
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo FHD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/discovery.png" group-title="BRASIL",Discovery Turbo FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63762
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World SD" tvg-logo="https://i.postimg.cc/XJXRJqmJ/Discovery-world-channel-logo.png" group-title="BRASIL",Discovery World SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63763
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World HD" tvg-logo="https://i.postimg.cc/0NknwkYR/Discovery-world-channel-logo.png" group-title="BRASIL",Discovery World HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63764
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World FHD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/DISCOVERY%20WORLD.png" group-title="BRASIL",Discovery World FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63765
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/DISNEY%20CHANNEL.png" group-title="BRASIL",Disney Channel SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63766
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel FHD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/DISNEY%20CHANNEL.png" group-title="BRASIL",Disney Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63767
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/DISNEY%20CHANNEL.png" group-title="BRASIL",Disney Channel HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63768
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior  SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/DISNEY%20JUNIOR.png" group-title="BRASIL",Disney Junior  SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63769
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/DISNEY%20JUNIOR.png" group-title="BRASIL",Disney Junior HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63770
+#EXTINF:-1 tvg-id="" tvg-name="E! SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/E.png" group-title="BRASIL",E! SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63771
+#EXTINF:-1 tvg-id="" tvg-name="E! HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/E.png" group-title="BRASIL",E! HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63772
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 SD" tvg-logo="https://i.postimg.cc/d0KTsKTz/ESPN2-logo.png" group-title="BRASIL",ESPN 3 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63773
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD" tvg-logo="https://i.postimg.cc/DyRdzfNw/ESPN2-logo.png" group-title="BRASIL",ESPN 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63774
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 FHD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/ESPN2.png" group-title="BRASIL",ESPN 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63775
+#EXTINF:-1 tvg-id="" tvg-name="ESPN SD" tvg-logo="https://i.postimg.cc/63t6SWGp/espn-brasil-logo.png" group-title="BRASIL",ESPN SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63776
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="https://i.postimg.cc/1Xj0wy5M/espnbrasilb-logo.png" group-title="BRASIL",ESPN HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63777
+#EXTINF:-1 tvg-id="" tvg-name="ESPN FHD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/espnbrasil.png" group-title="BRASIL",ESPN FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63778
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Extra SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/espnextra.png" group-title="BRASIL",ESPN Extra SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63779
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Extra HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/espnextra.png" group-title="BRASIL",ESPN Extra HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63780
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/ESPN.png" group-title="BRASIL",ESPN 2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63781
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/ESPN.png" group-title="BRASIL",ESPN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63782
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 FHD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/ESPN.png" group-title="BRASIL",ESPN 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63783
+#EXTINF:-1 tvg-id="" tvg-name="Fish TV  SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/FISHTV.png" group-title="BRASIL",Fish TV  SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63784
+#EXTINF:-1 tvg-id="" tvg-name="Fish TV HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/FISHTV.png" group-title="BRASIL",Fish TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63785
+#EXTINF:-1 tvg-id="" tvg-name="Food Network SD" tvg-logo="https://i.postimg.cc/0Nw4NHnL/Food-Network-Logo.png" group-title="BRASIL",Food Network SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63786
+#EXTINF:-1 tvg-id="" tvg-name="Food Network   HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/Food_Network.png" group-title="BRASIL",Food Network   HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63787
+#EXTINF:-1 tvg-id="" tvg-name="Star Channel SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/STARCHANNEL.png" group-title="BRASIL",Star Channel SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63788
+#EXTINF:-1 tvg-id="" tvg-name="Star Channel HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/STARCHANNEL.png" group-title="BRASIL",Star Channel HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63789
+#EXTINF:-1 tvg-id="" tvg-name="Star Channel FHD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/STARCHANNEL.png" group-title="BRASIL",Star Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63790
+#EXTINF:-1 tvg-id="" tvg-name="Star Life SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/STAR%20LIVE.png" group-title="BRASIL",Star Life SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63791
+#EXTINF:-1 tvg-id="" tvg-name="Star Life HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/STAR%20LIVE.png" group-title="BRASIL",Star Life HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63792
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life  FHD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/FOXLIVE.png" group-title="BRASIL",Fox Life  FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63793
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 SD" tvg-logo="http://i.imgur.com/sKlYruT.png" group-title="BRASIL",ESPN 4 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63794
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HD" tvg-logo="http://i.imgur.com/sKlYruT.png" group-title="BRASIL",ESPN 4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63795
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 FHD" tvg-logo="http://i.imgur.com/sKlYruT.png" group-title="BRASIL",ESPN 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63796
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 SD" tvg-logo="https://i.postimg.cc/MTZGwRbf/foxsports2-logo.png" group-title="BRASIL",Fox Sports 2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63797
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2  HD" tvg-logo="https://i.postimg.cc/vZj7cYSm/fox-sports2-hd-logo.png" group-title="BRASIL",Fox Sports 2  HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63798
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2  FHD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/FOX%20SPORS%202.png" group-title="BRASIL",Fox Sports 2  FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63799
+#EXTINF:-1 tvg-id="" tvg-name="Futura  HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/FUTURA.png" group-title="BRASIL",Futura  HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63800
+#EXTINF:-1 tvg-id="" tvg-name="FX SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/FX.png" group-title="BRASIL",FX SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63801
+#EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/FX.png" group-title="BRASIL",FX HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63802
+#EXTINF:-1 tvg-id="" tvg-name="FX  FHD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/FX.png" group-title="BRASIL",FX  FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63803
+#EXTINF:-1 tvg-id="" tvg-name="Globo Bahia" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/GLOBO.png" group-title="BRASIL",Globo Bahia
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63804
+#EXTINF:-1 tvg-id="" tvg-name="Globo Amazonas SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/GLOBO.png" group-title="BRASIL",Globo Amazonas SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63805
+#EXTINF:-1 tvg-id="" tvg-name="Globo Anhanguera Goiania " tvg-logo="https://i.postimg.cc/Ss1yczf9/TV-Anhanguera-logo.png" group-title="BRASIL",Globo Anhanguera Goiania 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63806
+#EXTINF:-1 tvg-id="" tvg-name="Globo Brasilia HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/GLOBO.png" group-title="BRASIL",Globo Brasilia HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63807
+#EXTINF:-1 tvg-id="" tvg-name="Globo Centro América " tvg-logo="https://i.postimg.cc/HxcNPcCX/Centro-Am-rica-logo.png" group-title="BRASIL",Globo Centro América 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63808
+#EXTINF:-1 tvg-id="" tvg-name="Globo CENTRO AMERICA CUIABA " tvg-logo="https://cm-inter.xyz/Logos/BRASIL/GLOBO.png" group-title="BRASIL",Globo CENTRO AMERICA CUIABA 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63809
+#EXTINF:-1 tvg-id="" tvg-name="Globo Presidente Prudente" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/GLOBO.png" group-title="BRASIL",Globo Presidente Prudente
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63810
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Campinas " tvg-logo="https://cm-inter.xyz/Logos/BRASIL/GLOBO.png" group-title="BRASIL",Globo EPTV Campinas 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63811
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Campinas HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/GLOBO.png" group-title="BRASIL",Globo EPTV Campinas HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63812
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Ribeirao Preto  " tvg-logo="https://cm-inter.xyz/Logos/BRASIL/GLOBO.png" group-title="BRASIL",Globo EPTV Ribeirao Preto  
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63813
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV São Carlos " tvg-logo="https://cm-inter.xyz/Logos/BRASIL/GLOBO.png" group-title="BRASIL",Globo EPTV São Carlos 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63814
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Cabugi HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/GLOBO.png" group-title="BRASIL",Globo Inter TV Cabugi HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63815
+#EXTINF:-1 tvg-id="" tvg-name="Globo  Portugal" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/GLOBO.png" group-title="BRASIL",Globo  Portugal
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63816
+#EXTINF:-1 tvg-id="" tvg-name="Globo InterTV Alto Litoral " tvg-logo="https://i.postimg.cc/HWQmpgt9/Inter-TV-logo.png" group-title="BRASIL",Globo InterTV Alto Litoral 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63817
+#EXTINF:-1 tvg-id="" tvg-name="Globo InterTV Cabugi SD" tvg-logo="https://i.postimg.cc/kGJHykRk/INTER-TV-LOGOTIPO.png" group-title="BRASIL",Globo InterTV Cabugi SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63818
+#EXTINF:-1 tvg-id="" tvg-name="Globo InterTV Serra Mar " tvg-logo="https://i.postimg.cc/kGJHykRk/INTER-TV-LOGOTIPO.png" group-title="BRASIL",Globo InterTV Serra Mar 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63819
+#EXTINF:-1 tvg-id="" tvg-name="Globo Minas SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/GLOBO%20MINAS.png" group-title="BRASIL",Globo Minas SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63820
+#EXTINF:-1 tvg-id="" tvg-name="Globo Minas HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/GLOBO%20MINAS.png" group-title="BRASIL",Globo Minas HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63821
+#EXTINF:-1 tvg-id="" tvg-name="Globo Now Portugal" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/GLOBO.png" group-title="BRASIL",Globo Now Portugal
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63822
+#EXTINF:-1 tvg-id="" tvg-name="Globo News  SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/GLOBO%20NEWS.png" group-title="BRASIL",Globo News  SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63823
+#EXTINF:-1 tvg-id="" tvg-name="Globo News HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/GLOBO%20NEWS.png" group-title="BRASIL",Globo News HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63824
+#EXTINF:-1 tvg-id="" tvg-name="Globo Nordeste SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/Globo_Nordeste.png" group-title="BRASIL",Globo Nordeste SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63825
+#EXTINF:-1 tvg-id="" tvg-name="Globo Nordeste HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/Globo_Nordeste.png" group-title="BRASIL",Globo Nordeste HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63826
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC Blumenau " tvg-logo="https://i.postimg.cc/9MK2gXVv/NSC-TV-logo.png" group-title="BRASIL",Globo NSC Blumenau 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63827
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC Chapeco " tvg-logo="https://i.postimg.cc/3Np6Hmpj/NSC-TV-logo.png" group-title="BRASIL",Globo NSC Chapeco 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63828
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC Florianópolis " tvg-logo="https://i.postimg.cc/9MK2gXVv/NSC-TV-logo.png" group-title="BRASIL",Globo NSC Florianópolis 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63829
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC Joinville " tvg-logo="https://i.postimg.cc/9MK2gXVv/NSC-TV-logo.png" group-title="BRASIL",Globo NSC Joinville 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63830
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS Porto Alegre " tvg-logo="https://cm-inter.xyz/Logos/BRASIL/GLOBO.png" group-title="BRASIL",Globo RBS Porto Alegre 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63831
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV Pelotas " tvg-logo="https://cm-inter.xyz/Logos/BRASIL/GLOBO.png" group-title="BRASIL",Globo RBS TV Pelotas 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63832
+#EXTINF:-1 tvg-id="" tvg-name="Globo Rede Amazônica" tvg-logo="https://i.postimg.cc/ZRjPvRmk/Rede-Amaz-nica-logo.png" group-title="BRASIL",Globo Rede Amazônica
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63833
+#EXTINF:-1 tvg-id="" tvg-name="Globo Rede Amazônica Porto Velho " tvg-logo="https://i.postimg.cc/ZRjPvRmk/Rede-Amaz-nica-logo.png" group-title="BRASIL",Globo Rede Amazônica Porto Velho 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63834
+#EXTINF:-1 tvg-id="" tvg-name="Globo Rede Amazônica Rio Branco " tvg-logo="https://i.postimg.cc/ZRjPvRmk/Rede-Amaz-nica-logo.png" group-title="BRASIL",Globo Rede Amazônica Rio Branco 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63835
+#EXTINF:-1 tvg-id="" tvg-name="Globo RJ SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/GLOBO.png" group-title="BRASIL",Globo RJ SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63836
+#EXTINF:-1 tvg-id="" tvg-name="Globo RJ HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/GLOBO.png" group-title="BRASIL",Globo RJ HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63837
+#EXTINF:-1 tvg-id="" tvg-name="Globo Recife" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/GLOBO.png" group-title="BRASIL",Globo Recife
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63838
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Curitiba " tvg-logo="https://cm-inter.xyz/Logos/BRASIL/GLOBO.png" group-title="BRASIL",Globo RPC Curitiba 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63839
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Maringa " tvg-logo="https://cm-inter.xyz/Logos/BRASIL/GLOBO.png" group-title="BRASIL",Globo RPC Maringa 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63840
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Paranavaí SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/GLOBO.png" group-title="BRASIL",Globo RPC Paranavaí SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63841
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC TV Foz do Iguacu HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/GLOBO.png" group-title="BRASIL",Globo RPC TV Foz do Iguacu HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63842
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC TV Ponta Grossa  " tvg-logo="https://cm-inter.xyz/Logos/BRASIL/GLOBO.png" group-title="BRASIL",Globo RPC TV Ponta Grossa  
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63843
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/GLOBO.png" group-title="BRASIL",Globo SP SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63844
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/Globo%20Sp.png" group-title="BRASIL",Globo SP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63845
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Anhanguera Anapolis" tvg-logo="https://i.postimg.cc/qv3TGTnt/TV-Anhanguera-logo.png" group-title="BRASIL",Globo TV Anhanguera Anapolis
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63846
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Bahia SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/GLOBO.png" group-title="BRASIL",Globo TV Bahia SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63847
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Bahia HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/GLOBO.png" group-title="BRASIL",Globo TV Bahia HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63848
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Cabo Branco " tvg-logo="https://cm-inter.xyz/Logos/BRASIL/GLOBO.png" group-title="BRASIL",Globo TV Cabo Branco 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63849
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV POA" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/GLOBO.png" group-title="BRASIL",Globo RBS TV POA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63850
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Gazeta Alagoas HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/Tvgazetae.png" group-title="BRASIL",Globo TV Gazeta Alagoas HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63851
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Gazeta Sul ES  HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/Tvgazetae.png" group-title="BRASIL",Globo TV Gazeta Sul ES  HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63852
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Gazeta Vitória HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/GLOBO.png" group-title="BRASIL",Globo TV Gazeta Vitória HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63853
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Integracao Juiz de Fora SD" tvg-logo="https://i.postimg.cc/cHKbNHbc/TV-Integra-o-logo.png" group-title="BRASIL",Globo TV Integracao Juiz de Fora SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63854
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Integração Araxa " tvg-logo="https://cm-inter.xyz/Logos/BRASIL/GLOBO.png" group-title="BRASIL",Globo TV Integração Araxa 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63855
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Integração Uberaba HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/GLOBO.png" group-title="BRASIL",Globo TV Integração Uberaba HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63856
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Manaus" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/GLOBO.png" group-title="BRASIL",Globo TV Manaus
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63857
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Liberal Belém HD" tvg-logo="https://i.postimg.cc/NGmDJbBF/tv-liberal-logo.png" group-title="BRASIL",Globo TV Liberal Belém HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63858
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Mirante" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/GLOBO.png" group-title="BRASIL",Globo TV Mirante
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63859
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Morena" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/GLOBO.png" group-title="BRASIL",Globo TV Morena
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63860
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Rio Sul " tvg-logo="https://i.postimg.cc/6QFfN3Kt/Tv-rio-sul.png" group-title="BRASIL",Globo TV Rio Sul 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63861
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Sergipe HD" tvg-logo="https://i.postimg.cc/Bv5F4Pz5/TV-Sergipe-logo.png" group-title="BRASIL",Globo TV Sergipe HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63862
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Tem Bauru SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/GLOBO.png" group-title="BRASIL",Globo TV Tem Bauru SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63863
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Tem Rio Preto HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/GLOBO.png" group-title="BRASIL",Globo TV Tem Rio Preto HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63864
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Tem Sorocaba " tvg-logo="https://cm-inter.xyz/Logos/BRASIL/GLOBO.png" group-title="BRASIL",Globo TV Tem Sorocaba 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63865
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Tribuna Santos HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/GLOBO.png" group-title="BRASIL",Globo TV Tribuna Santos HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63866
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Vanguarda São José dos Campos SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/GLOBO.png" group-title="BRASIL",Globo TV Vanguarda São José dos Campos SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63867
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Verdes Mares Fortaleza HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/GLOBO.png" group-title="BRASIL",Globo TV Verdes Mares Fortaleza HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63868
+#EXTINF:-1 tvg-id="" tvg-name="Gloob SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/GLOOB.png" group-title="BRASIL",Gloob SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63869
+#EXTINF:-1 tvg-id="" tvg-name="Gloob  HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/GLOOB.png" group-title="BRASIL",Gloob  HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63870
+#EXTINF:-1 tvg-id="" tvg-name="GLOOB  FHD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/GLOOB.png" group-title="BRASIL",GLOOB  FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63871
+#EXTINF:-1 tvg-id="" tvg-name="Gloobinho SD" tvg-logo="https://i.postimg.cc/WbkWQW1y/Gloobinho-Logo.png" group-title="BRASIL",Gloobinho SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63872
+#EXTINF:-1 tvg-id="" tvg-name="Gloobinho HD" tvg-logo="https://i.postimg.cc/GmHMtSzb/Gloobinho-Logo.png" group-title="BRASIL",Gloobinho HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63873
+#EXTINF:-1 tvg-id="" tvg-name="GNT  SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/gnt.png" group-title="BRASIL",GNT  SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63874
+#EXTINF:-1 tvg-id="" tvg-name="GNT HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/gnt.png" group-title="BRASIL",GNT HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63875
+#EXTINF:-1 tvg-id="" tvg-name="H2 HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/HISTORY2.png" group-title="BRASIL",H2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63876
+#EXTINF:-1 tvg-id="" tvg-name="HBO SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/HBO.png" group-title="BRASIL",HBO SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63877
+#EXTINF:-1 tvg-id="" tvg-name="HBO  HD" tvg-logo="https://i.postimg.cc/TwXT2bVJ/HBO-HD-logo.png" group-title="BRASIL",HBO  HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63878
+#EXTINF:-1 tvg-id="" tvg-name="HBO FHD " tvg-logo="https://cm-inter.xyz/Logos/BRASIL/HBO.png" group-title="BRASIL",HBO FHD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63879
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 SD" tvg-logo="https://i.postimg.cc/SRBrHyFR/hbo-2-logo.png" group-title="BRASIL",HBO 2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63880
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2  HD" tvg-logo="https://i.postimg.cc/hvB8029Q/hbo-2-logo.png" group-title="BRASIL",HBO 2  HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63881
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2  FHD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/HBO2.png" group-title="BRASIL",HBO 2  FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63882
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/HBOFAMILY.png" group-title="BRASIL",HBO Family HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63883
+#EXTINF:-1 tvg-id="" tvg-name="HBO Mundi SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/hbomundi.png" group-title="BRASIL",HBO Mundi SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63884
+#EXTINF:-1 tvg-id="" tvg-name="HBO Mundi HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/hbomundi.png" group-title="BRASIL",HBO Mundi HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63885
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family  FHD " tvg-logo="https://cm-inter.xyz/Logos/BRASIL/HBOFAMILY.png" group-title="BRASIL",HBO Family  FHD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63886
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/HBOPLUS.png" group-title="BRASIL",HBO Plus SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63887
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/HBOPLUS.png" group-title="BRASIL",HBO Plus HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63888
+#EXTINF:-1 tvg-id="" tvg-name="HBO Pop  SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/HBO%20POP.png" group-title="BRASIL",HBO Pop  SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63889
+#EXTINF:-1 tvg-id="" tvg-name="HBO Pop HD" tvg-logo="https://i.postimg.cc/CKxxbS33/HBO-Pop-logo.png" group-title="BRASIL",HBO Pop HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63890
+#EXTINF:-1 tvg-id="" tvg-name="Hbo Pop FHD" tvg-logo="https://i.postimg.cc/TPxP1K8f/hbo-popb-logo.png" group-title="BRASIL",Hbo Pop FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63891
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/HBOFAMILY.png" group-title="BRASIL",HBO Family SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63892
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature  SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/HBO%20SIGNATURE.png" group-title="BRASIL",HBO Signature  SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63893
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/HBO%20SIGNATURE.png" group-title="BRASIL",HBO Signature HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63894
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature  FHD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/HBO%20SIGNATURE.png" group-title="BRASIL",HBO Signature  FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63895
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME  SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/HBO%20XTREME.png" group-title="BRASIL",HBO XTREME  SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63896
+#EXTINF:-1 tvg-id="" tvg-name="HBO Xtreme HD" tvg-logo="https://i.postimg.cc/FRHnVnpC/HBO-Xtreme-logo.png" group-title="BRASIL",HBO Xtreme HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63897
+#EXTINF:-1 tvg-id="" tvg-name="HBO Xtreme FHD" tvg-logo="https://i.postimg.cc/PrSs5Fj5/HBO-Xtreme-logo.png" group-title="BRASIL",HBO Xtreme FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63898
+#EXTINF:-1 tvg-id="" tvg-name="HGTV  HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/HGTV.png" group-title="BRASIL",HGTV  HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63899
+#EXTINF:-1 tvg-id="" tvg-name="HGTV FHD" tvg-logo="https://i.postimg.cc/7YFdr9Pb/HGTV-logo.png" group-title="BRASIL",HGTV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63900
+#EXTINF:-1 tvg-id="" tvg-name="History  SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/HISTORY.png" group-title="BRASIL",History  SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63901
+#EXTINF:-1 tvg-id="" tvg-name="History HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/HISTORY.png" group-title="BRASIL",History HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63902
+#EXTINF:-1 tvg-id="" tvg-name="ID Investigação Discovery SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/INVESTIGATION%20%20DISCOVERY.png" group-title="BRASIL",ID Investigação Discovery SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63903
+#EXTINF:-1 tvg-id="" tvg-name="ID Investigação Discovery HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/INVESTIGATION%20%20DISCOVERY.png" group-title="BRASIL",ID Investigação Discovery HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63904
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime  SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/LIFETIME.png" group-title="BRASIL",Lifetime  SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63905
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime HD" tvg-logo="https://i.postimg.cc/tg0P918X/lifetime-hd-logo.png" group-title="BRASIL",Lifetime HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63906
+#EXTINF:-1 tvg-id="" tvg-name="Mais Globosat  SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/MAIS%20GLOBOSAT.png" group-title="BRASIL",Mais Globosat  SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63907
+#EXTINF:-1 tvg-id="" tvg-name="Modo Viagem HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/MAIS%20GLOBOSAT.png" group-title="BRASIL",Modo Viagem HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63908
+#EXTINF:-1 tvg-id="" tvg-name="Megapix  SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/MEGAPIX.png" group-title="BRASIL",Megapix  SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63909
+#EXTINF:-1 tvg-id="" tvg-name="Megapix HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/MEGAPIX.png" group-title="BRASIL",Megapix HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63910
+#EXTINF:-1 tvg-id="" tvg-name="Megapix FHD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/MEGAPIX.png" group-title="BRASIL",Megapix FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63911
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/MTV.png" group-title="BRASIL",MTV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63912
+#EXTINF:-1 tvg-id="" tvg-name="Multishow SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/multishow.png" group-title="BRASIL",Multishow SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63913
+#EXTINF:-1 tvg-id="" tvg-name="Multishow  HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/multishow.png" group-title="BRASIL",Multishow  HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63914
+#EXTINF:-1 tvg-id="" tvg-name="MULTISHOW  FHD " tvg-logo="https://cm-inter.xyz/Logos/BRASIL/multishow.png" group-title="BRASIL",MULTISHOW  FHD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63915
+#EXTINF:-1 tvg-id="" tvg-name="Music Box Brazil " tvg-logo="https://cm-inter.xyz/Logos/BRASIL/MUSIC%20BOX%20BRASIL.png" group-title="BRASIL",Music Box Brazil 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63916
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/NETIONAL%20GEOGRAFIC%20CHANNEL.png" group-title="BRASIL",Nat Geo SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63917
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo  HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/NETIONAL%20GEOGRAFIC%20CHANNEL.png" group-title="BRASIL",Nat Geo  HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63918
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO  FHD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/NETIONAL%20GEOGRAFIC%20CHANNEL.png" group-title="BRASIL",NAT GEO  FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63919
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/NATGEOWILD.png" group-title="BRASIL",Nat Geo Wild SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63920
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/NATGEOWILD.png" group-title="BRASIL",Nat Geo Wild HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63921
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/NICKJR.png" group-title="BRASIL",Nick Jr SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63922
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/NICKJR.png" group-title="BRASIL",Nick Jr HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63923
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr  FHD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/NICKJR.png" group-title="BRASIL",Nick Jr  FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63924
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/NICK.png" group-title="BRASIL",Nickelodeon SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63925
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/NICK.png" group-title="BRASIL",Nickelodeon HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63926
+#EXTINF:-1 tvg-id="" tvg-name="Novo Tempo " tvg-logo="https://cm-inter.xyz/Logos/BRASIL/NOVO%20TEPO%20CANAL%20DE%20ESPERAN%c3%87A.png" group-title="BRASIL",Novo Tempo 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63927
+#EXTINF:-1 tvg-id="" tvg-name="OFF  SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/off.png" group-title="BRASIL",OFF  SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63928
+#EXTINF:-1 tvg-id="" tvg-name="OFF HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/off.png" group-title="BRASIL",OFF HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63929
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel SD" tvg-logo="https://i.postimg.cc/7P99HVxm/paramount-channel-logo.png" group-title="BRASIL",Paramount Channel SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63930
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel   HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/PARAMOUNT%20CHANNEL.png" group-title="BRASIL",Paramount Channel   HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63931
+#EXTINF:-1 tvg-id="" tvg-name="Dog tv" tvg-logo="https://cm-inter.xyz/Logos/PORTUGAL/DOG%20TV.png" group-title="BRASIL",Dog tv
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63932
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/PREMIERE.png" group-title="BRASIL",Premiere 2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63933
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/PREMIERE.png" group-title="BRASIL",Premiere 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63934
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3  SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/PREMIERE.png" group-title="BRASIL",Premiere 3  SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63935
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/PREMIERE.png" group-title="BRASIL",Premiere 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63936
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4  SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/PREMIERE.png" group-title="BRASIL",Premiere 4  SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63937
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/PREMIERE.png" group-title="BRASIL",Premiere 4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63938
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5  SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/PREMIERE.png" group-title="BRASIL",Premiere 5  SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63939
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/PREMIERE.png" group-title="BRASIL",Premiere 5 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63940
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 " tvg-logo="https://cm-inter.xyz/Logos/BRASIL/PREMIERE.png" group-title="BRASIL",Premiere 6 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63941
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7 " tvg-logo="https://cm-inter.xyz/Logos/BRASIL/PREMIERE.png" group-title="BRASIL",Premiere 7 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63942
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/PREMIERE%20CLUBES.png" group-title="BRASIL",Premiere Clubes SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63943
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/PREMIERE%20CLUBES.png" group-title="BRASIL",Premiere Clubes HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63944
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes HD Extra" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/PREMIERE%20CLUBES.png" group-title="BRASIL",Premiere Clubes HD Extra
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63945
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes FHD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/PREMIERE%20CLUBES.png" group-title="BRASIL",Premiere Clubes FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63946
+#EXTINF:-1 tvg-id="" tvg-name="Record  RS" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/RECORD.png" group-title="BRASIL",Record  RS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63947
+#EXTINF:-1 tvg-id="" tvg-name="Record SP " tvg-logo="https://cm-inter.xyz/Logos/BRASIL/RECORD.png" group-title="BRASIL",Record SP 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63948
+#EXTINF:-1 tvg-id="" tvg-name="Record Nordeste  HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/RECORD.png" group-title="BRASIL",Record Nordeste  HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63949
+#EXTINF:-1 tvg-id="" tvg-name="Record PA" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/RECORD.png" group-title="BRASIL",Record PA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63950
+#EXTINF:-1 tvg-id="" tvg-name="Record News SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/RECORD%20NEWS.png" group-title="BRASIL",Record News SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63951
+#EXTINF:-1 tvg-id="" tvg-name="Record News HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/RECORD%20NEWS.png" group-title="BRASIL",Record News HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63952
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RJ  SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/RECORD.png" group-title="BRASIL",RECORD RJ  SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63953
+#EXTINF:-1 tvg-id="" tvg-name="Record RJ HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/RECORD.png" group-title="BRASIL",Record RJ HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63954
+#EXTINF:-1 tvg-id="" tvg-name="Record SP HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/RECORD.png" group-title="BRASIL",Record SP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63955
+#EXTINF:-1 tvg-id="" tvg-name="Rede Gospel " tvg-logo="https://cm-inter.xyz/Logos/BRASIL/Rede_Gospel.png" group-title="BRASIL",Rede Gospel 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63956
+#EXTINF:-1 tvg-id="" tvg-name="Rede TV  HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/REDETV.png" group-title="BRASIL",Rede TV  HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63957
+#EXTINF:-1 tvg-id="" tvg-name="Rede Vida " tvg-logo="https://i.postimg.cc/NFzzC7F8/Rede-Vida-logo.png" group-title="BRASIL",Rede Vida 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63958
+#EXTINF:-1 tvg-id="" tvg-name="SBT  SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/sbt.png" group-title="BRASIL",SBT  SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63959
+#EXTINF:-1 tvg-id="" tvg-name="SBT  HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/sbt.png" group-title="BRASIL",SBT  HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63960
+#EXTINF:-1 tvg-id="" tvg-name="SBT Brasilia " tvg-logo="https://cm-inter.xyz/Logos/BRASIL/sbt.png" group-title="BRASIL",SBT Brasilia 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63961
+#EXTINF:-1 tvg-id="" tvg-name="SBT RJ HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/sbt.png" group-title="BRASIL",SBT RJ HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63962
+#EXTINF:-1 tvg-id="" tvg-name="SBT SP " tvg-logo="https://cm-inter.xyz/Logos/BRASIL/sbt.png" group-title="BRASIL",SBT SP 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63963
+#EXTINF:-1 tvg-id="" tvg-name="SBT SP HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/sbt.png" group-title="BRASIL",SBT SP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63964
+#EXTINF:-1 tvg-id="" tvg-name="SBT TV Jornal Pernambuco " tvg-logo="https://cm-inter.xyz/Logos/BRASIL/sbt.png" group-title="BRASIL",SBT TV Jornal Pernambuco 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63965
+#EXTINF:-1 tvg-id="" tvg-name="Space HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/SPACE.png" group-title="BRASIL",Space HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63966
+#EXTINF:-1 tvg-id="" tvg-name="SporTV SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/SPORTV.png" group-title="BRASIL",SporTV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63967
+#EXTINF:-1 tvg-id="" tvg-name="SporTV HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/SPORTV.png" group-title="BRASIL",SporTV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63968
+#EXTINF:-1 tvg-id="" tvg-name="SporTV  FHD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/SPORTV.png" group-title="BRASIL",SporTV  FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63969
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 2 SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/SPORTV2.png" group-title="BRASIL",SporTV 2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63970
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 2 HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/SPORTV2.png" group-title="BRASIL",SporTV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63971
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 3  SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/SPORTV3.png" group-title="BRASIL",SporTV 3  SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63972
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 3 HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/SPORTV3.png" group-title="BRASIL",SporTV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63973
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal  SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/UNIVERSAL%20CHANNEL.png" group-title="BRASIL",Studio Universal  SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63974
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal HD" tvg-logo="https://i.postimg.cc/jSvkBXGV/studio-universal-br.jpg" group-title="BRASIL",Studio Universal HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63975
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal  FHD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/STUDIO%20UNIVERSAL.png" group-title="BRASIL",Studio Universal  FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63976
+#EXTINF:-1 tvg-id="" tvg-name="SyFy  SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/syfy.png" group-title="BRASIL",SyFy  SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63977
+#EXTINF:-1 tvg-id="" tvg-name="SyFy HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/syfy.png" group-title="BRASIL",SyFy HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63978
+#EXTINF:-1 tvg-id="" tvg-name="SyFy  FHD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/syfy.png" group-title="BRASIL",SyFy  FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63979
+#EXTINF:-1 tvg-id="" tvg-name="TBS  SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/TBS.png" group-title="BRASIL",TBS  SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63980
+#EXTINF:-1 tvg-id="" tvg-name="TBS HD" tvg-logo="https://i.postimg.cc/MGxywJJX/TBS-logo.png" group-title="BRASIL",TBS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63981
+#EXTINF:-1 tvg-id="" tvg-name="TCM SD" tvg-logo="https://i.postimg.cc/VNb2xM1z/tcm-logo.png" group-title="BRASIL",TCM SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63982
+#EXTINF:-1 tvg-id="" tvg-name="TCM  HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/TCM.png" group-title="BRASIL",TCM  HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63983
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action  SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/TELECINE%20ACTION.png" group-title="BRASIL",Telecine Action  SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63984
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/TELECINE%20ACTION.png" group-title="BRASIL",Telecine Action HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63985
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action FHD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/TELECINE%20ACTION.png" group-title="BRASIL",Telecine Action FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63986
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca  SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/TELECINE%20PIPOCA.png" group-title="BRASIL",Telecine Pipoca  SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63987
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/TELECINE%20PIPOCA.png" group-title="BRASIL",Telecine Pipoca HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63988
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca FHD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/TELECINE%20PIPOCA.png" group-title="BRASIL",Telecine Pipoca FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63989
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium  SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/TELECINEPREMIUM.png" group-title="BRASIL",Telecine Premium  SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63990
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/TELECINEPREMIUM.png" group-title="BRASIL",Telecine Premium HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63991
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium FHD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/TELECINEPREMIUM.png" group-title="BRASIL",Telecine Premium FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63992
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun  SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/TELECINE%20FUN.png" group-title="BRASIL",Telecine Fun  SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63993
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/TELECINE%20FUN.png" group-title="BRASIL",Telecine Fun HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63994
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun  FHD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/TELECINE%20FUN.png" group-title="BRASIL",Telecine Fun  FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63995
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult  SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/TELECINE%20CULT.png" group-title="BRASIL",Telecine Cult  SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63996
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/TELECINE%20CULT.png" group-title="BRASIL",Telecine Cult HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63997
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult FHD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/TELECINE%20CULT.png" group-title="BRASIL",Telecine Cult FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63998
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch  SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/TELECINE%20TOUCH.png" group-title="BRASIL",Telecine Touch  SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/63999
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/TELECINE%20TOUCH.png" group-title="BRASIL",Telecine Touch HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/64000
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch FHD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/TELECINE%20TOUCH.png" group-title="BRASIL",Telecine Touch FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/64001
+#EXTINF:-1 tvg-id="" tvg-name="TNT  SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/TNT.png" group-title="BRASIL",TNT  SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/64003
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/TNT.png" group-title="BRASIL",TNT HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/64002
+#EXTINF:-1 tvg-id="" tvg-name="TNT Séries  SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/TNT.png" group-title="BRASIL",TNT Séries  SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/64004
+#EXTINF:-1 tvg-id="" tvg-name="TNT Séries HD" tvg-logo="https://i.postimg.cc/Dy09FRPv/TNT-Series.png" group-title="BRASIL",TNT Séries HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/64005
+#EXTINF:-1 tvg-id="" tvg-name="TNT Séries  FHD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/TNTSERIES.png" group-title="BRASIL",TNT Séries  FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/64006
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/Tooncast.png" group-title="BRASIL",Tooncast SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/64007
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/Tooncast.png" group-title="BRASIL",Tooncast HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/64008
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast  FHD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/Tooncast.png" group-title="BRASIL",Tooncast  FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/64009
+#EXTINF:-1 tvg-id="" tvg-name="Tru TV " tvg-logo="https://cm-inter.xyz/Logos/BRASIL/TRUTV.png" group-title="BRASIL",Tru TV 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/64010
+#EXTINF:-1 tvg-id="" tvg-name="TV Aparecida " tvg-logo="https://cm-inter.xyz/Logos/BRASIL/APARECIDA.png" group-title="BRASIL",TV Aparecida 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/64011
+#EXTINF:-1 tvg-id="" tvg-name="TV DIARIO " tvg-logo="https://cm-inter.xyz/Logos/BRASIL/TVDIARIO.png" group-title="BRASIL",TV DIARIO 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/64012
+#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta HD" tvg-logo="https://i.imgur.com/azaIWFw.png" group-title="BRASIL",TV Gazeta HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/64013
+#EXTINF:-1 tvg-id="" tvg-name="TV Ra Tim Bum SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/TVREITIMBUM.png" group-title="BRASIL",TV Ra Tim Bum SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/64014
+#EXTINF:-1 tvg-id="" tvg-name="TV Ra Tim Bum HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/TVREITIMBUM.png" group-title="BRASIL",TV Ra Tim Bum HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/64015
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel  SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/UNIVERSAL%20CHANNEL.png" group-title="BRASIL",Universal Channel  SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/64016
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/UNIVERSAL%20CHANNEL.png" group-title="BRASIL",Universal Channel HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/64017
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/UNIVERSAL.png" group-title="BRASIL",Universal Channel HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/64018
+#EXTINF:-1 tvg-id="" tvg-name="MTV 00s" tvg-logo="https://i.postimg.cc/BvcY2VXR/VH1-HD-Brasil.png" group-title="BRASIL",MTV 00s
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/64019
+#EXTINF:-1 tvg-id="" tvg-name="Viva  SD" tvg-logo="https://i.postimg.cc/hPv1cFYP/viva-logo.png" group-title="BRASIL",Viva  SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/64020
+#EXTINF:-1 tvg-id="" tvg-name="Viva HD" tvg-logo="https://i.postimg.cc/hPv1cFYP/viva-logo.png" group-title="BRASIL",Viva HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/64021
+#EXTINF:-1 tvg-id="" tvg-name="VIVA  FHD" tvg-logo="https://i.postimg.cc/hPv1cFYP/viva-logo.png" group-title="BRASIL",VIVA  FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/64022
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/Warner.png" group-title="BRASIL",Warner Channel SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/64023
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/Warner.png" group-title="BRASIL",Warner Channel HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/64024
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel  FHD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/Warner.png" group-title="BRASIL",Warner Channel  FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/64025
+#EXTINF:-1 tvg-id="" tvg-name="Woohoo  SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/WOOHOO.png" group-title="BRASIL",Woohoo  SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/64026
+#EXTINF:-1 tvg-id="" tvg-name="Woohoo HD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/WOOHOO.png" group-title="BRASIL",Woohoo HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/64027
+#EXTINF:-1 tvg-id="" tvg-name="Zoomoo  SD" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/ZOOMOO.png" group-title="BRASIL",Zoomoo  SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/64028
+#EXTINF:-1 tvg-id="" tvg-name="Zoomoo HD" tvg-logo="https://i.postimg.cc/3JyjCckW/zoo-moo-logo.png" group-title="BRASIL",Zoomoo HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://mataformigas.xyz:8080/fernando/fernando/64029
