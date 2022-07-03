@@ -1,9 +1,9 @@
 <channels>
 
 <channel>
-<name>[B][COLOR red]●≡[/COLOR] [COLOR white] Canais-Brasil | [COLOR red]7PLUS[/COLOR][/B]</name>
+<name>[B][COLOR red]●≡[/COLOR] [COLOR white] Servidor 1 | F4mTester | [COLOR red]7PLUS[/COLOR][/B]</name>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/9/9b/Logo_Canal_Brasil_2012.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/CanaisWEB/Extra</externallink>
+<externallink>https://raw.githubusercontent.com/Paulo1964/xe1569844wvb/main/%E7%94%B5%E8%A7%86-TV/Servidor-1</externallink>
 <fanart>https://ia601405.us.archive.org/19/items/fanart_20210818/fanart.jpg</fanart>
 <info>[B][COLOR lime]● [/COLOR][COLOR crimson]Canais Temporários[/COLOR][COLOR lime] ●[/COLOR][/B]
 [COLOR gold]■[/COLOR][COLOR red] OF[/COLOR]
@@ -14,36 +14,36 @@
 ##########################################################################
 
 <channel>
-<name>[B][COLOR red]●≡[/COLOR] [COLOR white] Servidor 1 | F4mTester | [COLOR red]7PLUS[/COLOR][/B]</name>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/9/9b/Logo_Canal_Brasil_2012.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/CanaisWEB/Servidor1</externallink>
-<fanart>https://ia601405.us.archive.org/19/items/fanart_20210818/fanart.jpg</fanart>
-<info>[B][COLOR lime]● [/COLOR][COLOR crimson]Canais Temporários[/COLOR][COLOR lime] ●[/COLOR][/B]
-[COLOR gold]■[/COLOR][COLOR lime] ON[/COLOR]
-
-</info>
-</channel>
-
-##########################################################################
-
-<channel>
 <name>[B][COLOR red]●≡[/COLOR] [COLOR white] Servidor 2 | F4mTester | [COLOR red]7PLUS[/COLOR][/B]</name>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/9/9b/Logo_Canal_Brasil_2012.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/CanaisWEB/Servidor2</externallink>
+<externallink>https://raw.githubusercontent.com/Paulo1964/xe1569844wvb/main/%E7%94%B5%E8%A7%86-TV/Servidor-2</externallink>
 <fanart>https://ia601405.us.archive.org/19/items/fanart_20210818/fanart.jpg</fanart>
 <info>[B][COLOR lime]● [/COLOR][COLOR crimson]Canais Temporários[/COLOR][COLOR lime] ●[/COLOR][/B]
 [COLOR gold]■[/COLOR][COLOR lime] ON[/COLOR]
 
 </info>
 </channel>
-
 
 ##########################################################################
 
 <channel>
 <name>[B][COLOR red]●≡[/COLOR] [COLOR white] Servidor 3 | F4mTester | [COLOR red]7PLUS[/COLOR][/B]</name>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/9/9b/Logo_Canal_Brasil_2012.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/CanaisWEB/Servidor3</externallink>
+<externallink>https://raw.githubusercontent.com/Paulo1964/xe1569844wvb/main/%E7%94%B5%E8%A7%86-TV/Servidor-3</externallink>
+<fanart>https://ia601405.us.archive.org/19/items/fanart_20210818/fanart.jpg</fanart>
+<info>[B][COLOR lime]● [/COLOR][COLOR crimson]Canais Temporários[/COLOR][COLOR lime] ●[/COLOR][/B]
+[COLOR gold]■[/COLOR][COLOR lime] ON[/COLOR]
+
+</info>
+</channel>
+
+
+##########################################################################
+
+<channel>
+<name>[B][COLOR red]●≡[/COLOR] [COLOR white] Servidor 3  | [COLOR red]7PLUS[/COLOR][/B]</name>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/9/9b/Logo_Canal_Brasil_2012.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Paulo1964/xe1569844wvb/main/%E7%94%B5%E8%A7%86-TV/Servidor-4</externallink>
 <fanart>https://ia601405.us.archive.org/19/items/fanart_20210818/fanart.jpg</fanart>
 <info>[B][COLOR lime]● [/COLOR][COLOR crimson]Canais Temporários[/COLOR][COLOR lime] ●[/COLOR][/B]
 [COLOR gold]■[/COLOR][COLOR lime] ON[/COLOR]
